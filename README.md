@@ -1,2 +1,5 @@
-# Chinese_Chess
-A Chinese_Chess game bases on C and SDL2 
+# 中国象棋
+
+1. 需要安装SDL2并进行一定的配置
+
+2. 实现了**基础玩法**以及对应的**聊天、和棋、悔棋、认输**等功能
